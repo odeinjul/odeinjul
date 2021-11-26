@@ -1,5 +1,8 @@
 ### Hi there 👋
-高考完在家正绝赞退化中
+
+~~高考完在家正绝赞退化中~~
+
+现在是在学校绝赞退化中了
 
 <!--
 **odeinjul/odeinjul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
