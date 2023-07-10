@@ -1,15 +1,16 @@
 ### Hi there ❄️
 
+## Projects working on
 
-~~正绝赞退化中~~
+### Schoolwork
 
-<!--
-**odeinjul/odeinjul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* Life@USTC / A iOS application for fetching information deligently at USTC
+  * https://github.com/tiankaima/Life-USTC
 
-Here are some ideas to get you started:
+* ErisFS / A easy-to-extend virtual filesystem for FreeRTOS
+  * https://github.com/OSH2023/ErisFS
+    
+### Fun
 
-- 🔭 I’m currently working on physics
-- 🌱 I’m currently learning vue.js
-- 📫 How to reach me: twitter:@odeinjul | gmail: odeinjul@gmail.com
--->
-[![Odeinjul's GitHub stats](https://github-readme-stats.vercel.app/api?username=Odeinjul)](https://github.com/Odeinjul/github-readme-stats)
+* FesGen / A eki-sign generator
+  * https://github.com/Team-Cenlinc/FesGen
