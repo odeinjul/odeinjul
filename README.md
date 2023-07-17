@@ -8,7 +8,7 @@
   * https://github.com/tiankaima/Life-USTC
 
 * ErisFS / A easy-to-extend virtual filesystem for FreeRTOS
-  * https://github.com/OSH2023/ErisFS
+  * https://github.com/OSH-2023/ErisFS
     
 ### Fun
 
