@@ -11,6 +11,9 @@
   * https://github.com/OSH-2023/ErisFS
     
 ### Fun
+* Pomodomo / Pomodomo made by SwiftUI
+  * https://github.com/odeinjul/Pomodomo
+
 
 * FesGen / A eki-sign generator
   * https://github.com/Team-Cenlinc/FesGen
