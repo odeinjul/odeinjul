@@ -9,7 +9,7 @@
   * https://github.com/OSH-2023/ErisFS
     
 ### Fun
-* Pomodomo / Pomodomo made by SwiftUI
+* Pomodomo / Pomodoro made by SwiftUI
   * https://github.com/odeinjul/Pomodomo
 
 
