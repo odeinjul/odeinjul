@@ -1,6 +1,4 @@
-### Hi there ❄️
-
-## Projects working on
+## Hi there ❄️
 
 ### Schoolwork
 
